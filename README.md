@@ -6,8 +6,8 @@
 
 ## Links
 
-- [Demo](https://denisecase.github.io/js-gui-vue/)
-- [Source](https://github.com/denisecase/js-gui-vue)
+- [Demo](https://azharalali.github.io/js-gui-vue/)
+- [Source](https://github.com/AzharAlali/js-gui-vue)
 
 ## Requirements
 

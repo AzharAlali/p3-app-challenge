@@ -6,8 +6,8 @@
 
 ## Links
 
-- [Demo](https://azharalali.github.io/js-gui-vue/)
-- [Source](https://github.com/AzharAlali/js-gui-vue)
+- [Demo](https://azharalali.github.io/p3-app-challenge/)
+- [Source](https://github.com/AzharAlali/p3-app-challenge)
 
 ## Requirements
 
